@@ -1,2 +1,2 @@
-# template-vscode-project
-Project template containing a basic VS Code setup
+# encoder-velocity-estimation
+Simulation and comparison of incremental encoders and estimator algorithms
